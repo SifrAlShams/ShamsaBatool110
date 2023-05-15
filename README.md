@@ -1,6 +1,6 @@
 ### Hi there friends👋
 # About Me
-I am a passionate **Computer Science** student eagerly interested in **Machine Learning** and **Artificial Intelligence**. In my journey so far, I have taken different courses and certifications and worked on some projects to get a hands-on practice on real world problems. 
+I am a passionate **Computer Science** student eagerly interested in **Machine Learning** and **Artificial Intelligence**. In my journey so far, I have taken different courses and certifications and worked on some projects to get a hands-on practice on real world problems. The reason I am here is to connect with enthusiastic learners from whom I can learn and expand my knowledge and skill set.
  
 
 <!--
