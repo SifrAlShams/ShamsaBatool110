@@ -1,4 +1,7 @@
 ### Hi there friends👋
+### About me 
+I am a passionate **Computer Science** student eagerly interested in **Machine Learning** and **Artificial Intelligence**. In my journey so far, I have taken different courses and certifications and worked on some projects to get a hands-on practice on real world problems. 
+ 
 
 <!--
 **ShamsaBatool110/ShamsaBatool110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
