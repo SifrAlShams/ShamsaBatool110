@@ -3,3 +3,7 @@ I started my career three years back as a passionate **Computer Science** studen
  
 # Projects
 The projects I have done till now are **avaible on Github**. Everyone is free to view and suggest any modification, highlight any error and give feedback. I will welcome it open heartedly as I believe that, **a moment of error is a moment to learn**.
+
+# Social Media Links
+[LinkedIn](https://www.linkedin.com/in/shamsa-batool-88a200240/)
+[HackerRank](https://www.hackerrank.com/shamsabatool08?hr_r=1)
